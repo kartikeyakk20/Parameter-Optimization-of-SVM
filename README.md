@@ -6,7 +6,7 @@ No. of Rows:- 10129
 No. of Columns:- 16
 Multi-Classification
 
-Data Set Information:
+**Data Set Information:**
 
 The experimental testbed for occupancy estimation was deployed in a 6m Ã— 4.6m room. The setup consisted of 7 sensor nodes and one edge node in a star configuration with the sensor nodes transmitting data to the edge every 30s using wireless transceivers. No HVAC systems were in use while the dataset was being collected.
 
@@ -16,7 +16,7 @@ The data was collected for a period of 4 days in a controlled manner with the oc
 
 Please refer to our publications for more details.
 
-Attribute Information:
+**Attribute Information:**
 
 Date: YYYY/MM/DD
 Time: HH:MM:SS
