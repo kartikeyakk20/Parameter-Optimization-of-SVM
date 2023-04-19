@@ -2,7 +2,7 @@
 
 Dataset Link:- https://archive.ics.uci.edu/ml/machine-learning-databases/00640/Occupancy_Estimation.csv
 
-No. of Rows:- 10129\n
+No. of Rows:- 10129
 No. of Columns:- 16
 Multi-Classification
 
